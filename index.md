@@ -25,5 +25,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://github.com/cyber330d/Knowledge-Domain-and-career-path/blob/main/CURIOSITY.png)
 ```
-![Image](https://github.com/cyber330d/Knowledge-Domain-and-career-path/blob/main/KNOWLEGE%20DOMAINAPP.png)
-![Image]()
+
+[Link](url) and ![Image](https://github.com/cyber330d/Knowledge-Domain-and-career-path/blob/main/KNOWLEGE%20DOMAINAPP.png)
