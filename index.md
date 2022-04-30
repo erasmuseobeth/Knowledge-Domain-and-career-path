@@ -233,27 +233,8 @@ To support me  and my exploratory journey of science and technology through dona
 - **western union :** erasmus1821@gmail.com
 - **google pay :**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-![Image](https://github.com/cyber330d/Knowledge-Domain-and-career-path/blob/main/dialy%20time%20partitioning.png)
-1. Numbered
-2. List
 
 
 [Link](url)
-**Bold** and _Italic_ and `Code` text
-
-
-```
 
