@@ -1,10 +1,8 @@
 ## Welcome to my Knowledge Domain and Learning Map
 
-You can use the [editor on GitHub](https://github.com/cyber330d/Knowledge-Domain-and-career-path/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 # DREAM?VISION?
 
-To aid and accelerate Organism|human evolution and civilization as a whole by impacting the following interesting sectors through science and engineering innovations research and inventions;
+To aid and accelerate Organism/human evolution and civilization as a whole by impacting the following interesting sectors through science and engineering innovations research and inventions;
 
 ## COMMUNICATIONS & NETWORKING
 - Super advance,long distance,fast,efficient means of communication through vacuum over light years of distance instantenously
@@ -78,7 +76,7 @@ a list of what am currently learning and focusing on especially at this stage of
 - Data Structures and Algorithms
 - Computer hardware and Architecture
 - Electronics, Electricity and Circuitry
-- Mathematics|Physics
+- Mathematics/Physics
 - A.I  and Machine Learning
 - Psychology and Motivation
 - Computer Logic and Design Fundamentals
@@ -191,7 +189,7 @@ I want to understand the How, What, Why, Relations, and Interpretations of the P
 - faster than light speed and space expansion
 - teleportation,worm,white,black holes
 - space time,storms
-- spatial folding|compression\tearing|warping
+- spatial folding/compression\tearing|warping
 - planets galaxies,asteriods,meteirods,universes
 - clusters,superclusters
 - dark,anti matter, dark ,anti energy
@@ -248,7 +246,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+![Image](https://github.com/cyber330d/Knowledge-Domain-and-career-path/blob/main/dialy%20time%20partitioning.png)
 1. Numbered
 2. List
 
