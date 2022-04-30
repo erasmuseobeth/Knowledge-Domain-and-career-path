@@ -25,7 +25,7 @@ To aid and accelerate Organism/human evolution and civilization as a whole by im
 ## GENETICS,EVOLUTION,HEALTH
 - Strengthening human body muscle,brain,systems and organs
 - Increasing life spans and physical strengths,i.q,computational power
-- Stimulating human|organism body,spirit,soul potential
+- Stimulating human/organism body,spirit,soul potential
 - Awakening special abilities, instanteneous body regeneration,cloning & evolution
 
 ## ELECTROMAGNETISM,MAGNETS & ELECTRICITY
@@ -126,7 +126,7 @@ I want to understand the How, What, Why, Relations, and Interpretations of the P
 ### - Electronics Electricity and Circuitry
 - electricity and circuit fundamentals
 - circuit analyses and network theorems
-- mathematics|Physics|Calculus
+- mathematics/Physics/Calculus
 - Semiconductor Electronics,Devices,Physics
 - Solid state physics,electronics,devices,semiconductors
 - Digital & Analogue Electronics
