@@ -189,7 +189,7 @@ I want to understand the How, What, Why, Relations, and Interpretations of the P
 - faster than light speed and space expansion
 - teleportation,worm,white,black holes
 - space time,storms
-- spatial folding/compression\tearing|warping
+- spatial folding/compression,tearing|warping
 - planets galaxies,asteriods,meteirods,universes
 - clusters,superclusters
 - dark,anti matter, dark ,anti energy
